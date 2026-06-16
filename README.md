@@ -9,7 +9,7 @@
 | Member |
 |---|
 | Tarek Farag Abdelmobdy  |
-| Mohamed Mahmoud Abdel Razek |
+| Mohamed Mahmoud Shaikhoun |
 | Youssef Mohamed Abdel Fattah |
 | Youssef Mohamed Ahmed |
 | Abdelrahman Mohamed Mousa |
